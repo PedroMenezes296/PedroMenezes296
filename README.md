@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia de Computação na Universidade Federal do Pampa (UNIPAMPA) e apaixonado por desenvolvimento backend, arquitetura de sistemas e automação inteligente. Tenho experiência prática em Python, Java e C, com foco em APIs REST, autenticação JWT, bancos de dados e processamento paralelo. Participei de projetos acadêmicos e autorais envolvendo comunicação cliente-servidor, multithreading e integração full stack, como o sistema de consultas de CPF/CNPJ em Flask + Vue.js e o simulador de batalhas “Lutadores 1x1” desenvolvido em Java puro. Embora meu foco seja backend, também possuo experiência em frontend, especialmente na criação de interfaces responsivas e integração com APIs. Desenvolvi um site institucional para artes marciais (jiu-jitsu e muay thai), aplicando boas práticas de HTML, CSS, JavaScript e Vue.js, além de otimização de design e experiência do usuário. Sou familiarizado com o uso de Inteligências Artificiais para apoiar processos de desenvolvimento, documentação, depuração e prototipação. Utilizo IA como ferramenta para agilizar análises, explorar abordagens de implementação e otimizar fluxos de trabalho, mantendo foco em qualidade e produtividade.</p>
+<p align="left">Desenvolvedor backend, graduando em Engenharia de Computação, com experiência no desenvolvimento de APIs REST, automação de processos e integração de sistemas.
+Atuação com Java e Spring Boot na construção de serviços backend, utilizando JPA/Hibernate para persistência de dados e aplicação de boas práticas de arquitetura e organização de código. Experiência no desenvolvimento de APIs com múltiplos endpoints e integração com banco de dados relacional.
+Desenvolvimento de sistema full stack para consulta integrada de CPF e CNPJ, utilizando Python (Flask), SQLite e autenticação via JWT. Implementação de processamento paralelo com multiprocessing, validação de dados com regex e integração entre diferentes bases, garantindo eficiência no tratamento das informações.
+Experiência em automação de processos com n8n, Ollama (LLM local) e Python (Playwright), reduzindo em até 60% o tempo gasto em tarefas operacionais e aumentando a produtividade em rotinas administrativas e digitais.</p>
 
 ###
 
