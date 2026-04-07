@@ -2,10 +2,10 @@
 
 ###
 
-<p align="left">Desenvolvedor backend, graduando em Engenharia de Computação, com experiência no desenvolvimento de APIs REST, automação de processos e integração de sistemas.
-Atuação com Java e Spring Boot na construção de serviços backend, utilizando JPA/Hibernate para persistência de dados e aplicação de boas práticas de arquitetura e organização de código. Experiência no desenvolvimento de APIs com múltiplos endpoints e integração com banco de dados relacional.
-Desenvolvimento de sistema full stack para consulta integrada de CPF e CNPJ, utilizando Python (Flask), SQLite e autenticação via JWT. Implementação de processamento paralelo com multiprocessing, validação de dados com regex e integração entre diferentes bases, garantindo eficiência no tratamento das informações.
-Experiência em automação de processos com n8n, Ollama (LLM local) e Python (Playwright), reduzindo em até 60% o tempo gasto em tarefas operacionais e aumentando a produtividade em rotinas administrativas e digitais.</p>
+<p align="left">Desenvolvedor backend graduando em Engenharia de Computação (UNIPAMPA), com experiência prática em Java, Spring Boot e Python aplicados à construção de APIs REST, automação de processos e integração de sistemas.
+Desenvolvo serviços backend com Spring Boot, Spring Data JPA e Hibernate, seguindo arquitetura em camadas e boas práticas de código. Meus projetos incluem testes unitários automatizados com JUnit 5 e Mockito, containerização com Docker e Docker Compose e banco PostgreSQL em produção — tudo versionado e disponível publicamente aqui no GitHub.
+Tenho forte atuação em automação inteligente: desenvolvi soluções com n8n, Ollama (LLM local) e Python/Playwright que reduziram em até 60% o tempo gasto em tarefas operacionais em ambiente real de empresa. Também desenvolvi um sistema full stack para consulta integrada de CPF e CNPJ com Flask, autenticação JWT, processamento paralelo e Vue.js no frontend.
+No âmbito acadêmico, ministrei um mini-curso de Engenharia de Prompt para mais de 120 participantes e atuei como monitor nas disciplinas de Algoritmos e Programação e Técnicas Digitais.</p>
 
 ###
 
