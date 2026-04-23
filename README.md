@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! My name is Pedro Menezes and i'm a Software Developer!</h1>
+<h1 align="left">Olá! Meu nome é Pedro Menezes e sou Desenvolvedor Backend.</h1>
 
 ###
 
